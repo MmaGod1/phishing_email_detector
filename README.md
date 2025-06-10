@@ -103,7 +103,7 @@ It will tell you if it’s phishing or not, and show the confidence score for bo
 
 ---
 
-## ✉️ Sample Emails You Can Test With
+## Sample Emails You Can Test With
 
 * `Classic scam.txt`
 * `Verify_account.txt`
