@@ -1,0 +1,16 @@
+From: facebooksecurity@updateinfo.com
+Subject: Unusual Login Attempt on Your Account
+
+Dear user,
+
+There was an attempt to access your Facebook account from unknown location.
+
+If this wasn't you, please verify here to protect your account:
+
+http://facebook-unusual-login-check.tk
+
+Failure to verify in 48 hours will lead to temporary block.
+
+Thanks,
+Facebook Security Team
+

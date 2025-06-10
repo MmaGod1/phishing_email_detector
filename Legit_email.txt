@@ -1,0 +1,18 @@
+From: GitHub <noreply@github.com>  
+To: gmmaduchukwu@gmail.com  
+Subject: Welcome to GitHub  
+
+Hi there,
+
+Thanks for signing up for GitHub! We’re excited to have you on board.  
+You can now start creating repositories, collaborating with others, and building your next project.
+
+Sign in to your account: https://github.com/login
+
+Happy coding,  
+The GitHub Team
+
+---
+
+If you didn’t sign up, you can ignore this email.
+

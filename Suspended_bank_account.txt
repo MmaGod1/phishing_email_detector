@@ -1,0 +1,16 @@
+From: alert@gtbanksecure.com
+Subject: URGENT: Your GTBank Account Is Blocked
+
+Dear Valued Customer,
+
+Due to suspicious activity on your account, we have suspended access.
+
+To unblock, you must re-verify your information immediately:
+
+http://gtbank-verify-user-login.webs.com
+
+Failure to act within 12 hours may lead to permanent account closure.
+
+Sincerely,
+GTBank Security Team
+

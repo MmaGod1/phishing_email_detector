@@ -1,0 +1,14 @@
+From: admin@webmailcenter.org
+Subject: Your Email Account Will Be Deleted
+
+Dear Webmail User,
+
+We are currently upgrading our database.
+
+Your account will be deleted if not verified in 24 hours.
+
+Click here to keep your account: http://webmailcenter-upgrade-portal.ml
+
+Regards,
+Webmail Admin
+

@@ -1,0 +1,14 @@
+From: security-alert@paypal.com
+Subject: Verify Your Account Urgently
+
+Dear user,
+
+Your PayPal account has been selected for urgent verification. To prevent permanent suspension, please click on the link below and confirm your identity.
+
+http://secure-paypal-update-account.net
+
+Failure to comply will result in account termination within 24 hours.
+
+Thank you,
+PayPal Verification Team
+
