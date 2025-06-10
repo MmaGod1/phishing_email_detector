@@ -11,7 +11,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import classification_report
 
-# Ensure NLTK stopwords are available
+# Path to NLTK
 nltk.data.path.append("./nltk_data")
 
 # Download stopwords if not already downloaded
@@ -55,7 +55,7 @@ if combined_df.empty:
     print("🚫 No valid data found. Exiting.")
     exit()
 
-# Final normalization (in case)
+# Final normalization
 combined_df['label'] = combined_df['label'].astype(str).str.strip().str.lower()
 
 label_mapping = {
@@ -69,12 +69,6 @@ combined_df['label'] = combined_df['label'].map(label_mapping)
 combined_df = combined_df.dropna(subset=['label'])  # remove rows with unmapped labels
 
 print("✅ Final labels:", combined_df['label'].unique())
-
-
-
-
-# Optional: print unique labels to verify consistency
-print("🔍 Unique labels:", combined_df['label'].unique())
 
 # Preprocess body text
 combined_df['processed_text'] = combined_df['body'].apply(preprocess_text)

@@ -4,11 +4,11 @@ import nltk
 import string
 import os
 
-# Add the local nltk_data path (relative to this script)
+# Add the local nltk_data path
 project_nltk_data_path = os.path.join(os.path.dirname(__file__), 'nltk_data')
 nltk.data.path.append(project_nltk_data_path)
 
-# Try loading stopwords without downloading from the internet
+# Try loading stopwords
 try:
     from nltk.corpus import stopwords
     stop_words = stopwords.words('english')
